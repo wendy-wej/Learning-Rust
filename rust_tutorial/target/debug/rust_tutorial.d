@@ -1,0 +1,1 @@
+C:\Users\Chinwendu\ Nweje\Documents\WENDY\ ZUCKERBERG\Learning-Rust\rust_tutorial\target\debug\rust_tutorial.exe: C:\Users\Chinwendu\ Nweje\Documents\WENDY\ ZUCKERBERG\Learning-Rust\rust_tutorial\src\main.rs
