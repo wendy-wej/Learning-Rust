@@ -9,13 +9,8 @@ use std::cmp::Ordering;
 fn main() {
     
 
-    let my_age = 6;
-    let voting_age:i32 = 18;
-    match my_age.cmp(&voting_age){
-        Ordering::Less => println!("Too young"),
-        Ordering::Greater => println!("Eligible to vote"),
-        Ordering::Equal => println!("Just Old enough to vote")
-    }
+    let my_tuple: (u8, String, f64) = (47, "Derek".to_string(), 50_000.00); //Creating a tuple
+    println!("Second tuple item: {}", my_tuple.1);
     
 
 }

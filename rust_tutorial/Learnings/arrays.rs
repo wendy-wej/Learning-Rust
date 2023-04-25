@@ -1,3 +1,0 @@
-fn learning_arrays(){
-    
-}
