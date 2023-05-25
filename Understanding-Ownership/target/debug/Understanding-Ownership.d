@@ -1,0 +1,1 @@
+C:\Users\Chinwendu\ Nweje\Documents\WENDY\ ZUCKERBERG\Learning-Rust\Understanding-Ownership\target\debug\Understanding-Ownership.exe: C:\Users\Chinwendu\ Nweje\Documents\WENDY\ ZUCKERBERG\Learning-Rust\Understanding-Ownership\src\main.rs
